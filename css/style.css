@@ -24,7 +24,8 @@ color: navy;
 }
 footer {
 background-color: darkblue;
-color: lightgray;
-text-align: left;
-padding: 20px;
+color: white;
+text-align: center;
+padding: 40px;
+font-size: 14px;
 }
