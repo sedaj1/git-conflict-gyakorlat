@@ -23,8 +23,8 @@ h2 {
 color: navy;
 }
 footer {
-background-color: #333333;
-color: white;
-text-align: center;
-padding: 30px;
+background-color: darkblue;
+color: lightgray;
+text-align: left;
+padding: 20px;
 }
